@@ -41,7 +41,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/DDharm007/Code-Teaching-Institute-Sample-Website.git
-cd codeteaching-website
+unzip CodecraftersTraining.zip
 
 # Install frontend dependencies
 cd client
